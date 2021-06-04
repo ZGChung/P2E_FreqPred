@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8588629f-0a7e-4881-a5f0-d7b728ac3469" name="Default Changelist" comment="" />
+    <list default="true" id="8588629f-0a7e-4881-a5f0-d7b728ac3469" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Time_Series/TSModelImproved.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Time_Series/data_daily origin.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Time_Series/data_daily_preCOVID.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Time_Series/data_daily_preCOVID_2cols.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Time_Series/shortTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/P2E_FreqPred.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/P2E_FreqPred.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time_Series/data_daily.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time_Series/mainTestOfTSModels.py" beforeDir="false" afterPath="$PROJECT_DIR$/Time_Series/mainTestOfTSModels.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1qkBg0PbcdT2Duvfn6VX7ifCdVf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,6 +30,62 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Time_Series" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Time_Series" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.FreqPred">
+    <configuration name="FreqPred" type="PythonConfigurationType" factoryName="Python">
+      <module name="P2E_FreqPred" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/sklearn/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Time_Series" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Time_Series/mainTestOfTSModels.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TSModelImproved" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="P2E_FreqPred" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Time_Series" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Time_Series/TSModelImproved.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.TSModelImproved" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -44,5 +111,46 @@
       <updated>1617613814095</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="579" y="240" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622659346817">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="579" y="240" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1622659346817" />
+    <state x="610" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.108.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1617698984154" />
+    <state width="1006" height="290" key="GridCell.Tab.0.bottom" timestamp="1622719949180">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1006" height="290" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1622719949180" />
+    <state width="1006" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1622668452050" />
+    <state width="1006" height="290" key="GridCell.Tab.0.center" timestamp="1622719949179">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1006" height="290" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1622719949179" />
+    <state width="1006" height="290" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1622668452049" />
+    <state width="1006" height="290" key="GridCell.Tab.0.left" timestamp="1622719949178">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1006" height="290" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1622719949178" />
+    <state width="1006" height="290" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1622668452048" />
+    <state width="1006" height="290" key="GridCell.Tab.0.right" timestamp="1622719949179">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1006" height="290" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1622719949179" />
+    <state width="1006" height="290" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1622668452049" />
+    <state x="660" y="190" key="SettingsEditor" timestamp="1617698885046">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="660" y="190" key="SettingsEditor/1920.108.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1617698885046" />
+    <state x="844" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1622652938815">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="844" y="384" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1622652938815" />
+    <state x="844" y="384" key="com.intellij.ide.util.TipDialog/1920.108.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1617698653129" />
+    <state x="717" y="398" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622790260795">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="717" y="398" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1622790260795" />
+    <state x="956" y="475" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.108.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1617698918301" />
   </component>
 </project>
