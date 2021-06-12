@@ -122,6 +122,8 @@ forecaster = ReducedForecaster(
 )
 forecaster.fit(y_train)
 y_pred_kNN_bestk = forecaster.predict(fh)
+print(y_test)
+print(y_pred_kNN_bestk)
 # loss4 = smape_loss(y_test, y_pred_kNN_bestk)
 # print("The best sMAPE loss for kNN method is obtained when k =", 1, ", which is:", loss4)
 fig4, ax4 = plot_series(y_train, y_test, y_pred_kNN_bestk, labels = ["y_train", "y_test", "y_pred"])
